@@ -3,7 +3,7 @@
 
   FROM ubuntu:latest
 
-  MAINTAINER Mac Radigan <mac@radigan.org>
+  MAINTAINER Mac Radigan
 
   LABEL license="GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007"
   LABEL source="http://jsoftware.com/source.htm"
